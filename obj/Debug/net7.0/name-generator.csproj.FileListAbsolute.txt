@@ -1,0 +1,15 @@
+C:\Users\jpanz\Documents\GitHub\name-generator\name-generator\bin\Debug\net7.0\name-generator.exe
+C:\Users\jpanz\Documents\GitHub\name-generator\name-generator\bin\Debug\net7.0\name-generator.deps.json
+C:\Users\jpanz\Documents\GitHub\name-generator\name-generator\bin\Debug\net7.0\name-generator.runtimeconfig.json
+C:\Users\jpanz\Documents\GitHub\name-generator\name-generator\bin\Debug\net7.0\name-generator.dll
+C:\Users\jpanz\Documents\GitHub\name-generator\name-generator\bin\Debug\net7.0\name-generator.pdb
+C:\Users\jpanz\Documents\GitHub\name-generator\name-generator\obj\Debug\net7.0\name-generator.csproj.AssemblyReference.cache
+C:\Users\jpanz\Documents\GitHub\name-generator\name-generator\obj\Debug\net7.0\name-generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpanz\Documents\GitHub\name-generator\name-generator\obj\Debug\net7.0\name-generator.AssemblyInfoInputs.cache
+C:\Users\jpanz\Documents\GitHub\name-generator\name-generator\obj\Debug\net7.0\name-generator.AssemblyInfo.cs
+C:\Users\jpanz\Documents\GitHub\name-generator\name-generator\obj\Debug\net7.0\name-generator.csproj.CoreCompileInputs.cache
+C:\Users\jpanz\Documents\GitHub\name-generator\name-generator\obj\Debug\net7.0\name-generator.dll
+C:\Users\jpanz\Documents\GitHub\name-generator\name-generator\obj\Debug\net7.0\refint\name-generator.dll
+C:\Users\jpanz\Documents\GitHub\name-generator\name-generator\obj\Debug\net7.0\name-generator.pdb
+C:\Users\jpanz\Documents\GitHub\name-generator\name-generator\obj\Debug\net7.0\name-generator.genruntimeconfig.cache
+C:\Users\jpanz\Documents\GitHub\name-generator\name-generator\obj\Debug\net7.0\ref\name-generator.dll
